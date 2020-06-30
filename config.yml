@@ -1,0 +1,9 @@
+database:
+  host: "localhost"
+  username: "root"
+  password: "root"
+  database: "crawl_info"
+  port: "3306"
+
+server:
+  port: 8080
